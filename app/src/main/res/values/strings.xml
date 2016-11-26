@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoRV</string>
+    <string name="delete_item">Delete Item?</string>
+    <string name="yes_delete">Yes,Delete</string>
+</resources>
